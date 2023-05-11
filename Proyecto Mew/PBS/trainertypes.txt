@@ -71,3 +71,4 @@
 69,ELITEFOUR_Agatha,Alto Mando,100,elite,,,Female,,
 70,ELITEFOUR_Lance,Alto Mando,100,elite,,,Male,,
 71,CHAMPION,Campeón,100,elite,,,Male,,
+72,POLICIA_RUTA2,Policia,60,,,,Male,,
