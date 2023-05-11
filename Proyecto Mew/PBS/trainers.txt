@@ -1,10 +1,10 @@
 ﻿# Consulta la documentación de la wiki para aprender a modificar este archivo.
 #-------------------
-CAMPER
-Liam
+POLICIA_RUTA2
+Carlos
 2
-DIGLETT,10
-BONSLY,11
+GROWLITHE,10
+ELEKID,11
 #-------------------
 LEADER_Brock
 Brock
