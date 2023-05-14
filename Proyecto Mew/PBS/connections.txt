@@ -1,0 +1,12 @@
+# Ruta 2 (14) - Ciudad3 (27)
+14,South,4,27,North,0
+# Ruta 3 (20) - Ciudad3 (27)
+20,East,0,27,West,19
+# Ciudad Zephyra (7) - Ruta 1 (5)
+7,North,6,5,South,0
+# Pueblo Estelar (2) - Ruta 1 (5)
+2,North,0,5,South,36
+# Ruta 2 (14) - Ciudad Zephyra (7)
+14,North,0,7,South,14
+# Ciudad 4 (21) - Ruta 3 (20)
+21,East,8,20,West,0
