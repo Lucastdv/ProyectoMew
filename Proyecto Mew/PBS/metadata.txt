@@ -40,7 +40,6 @@ ShowArea=true
 # Casa Ruta 1
 MapPosition=0,13,12
 [009]
-# Casa1
 MapPosition=0,14,10
 HealingSpot=8,17,11
 [010]
@@ -63,6 +62,7 @@ MapPosition=0,13,10
 # Lab Pokemon
 MapPosition=0,13,10
 [016]
+# Casa Brock
 MapPosition=0,13,10
 [017]
 MapPosition=0,13,10
@@ -74,7 +74,7 @@ MapPosition=0,13,10
 # Ruta 3
 MapPosition=0,13,10
 [021]
-# Ciudad 4
+# Ciudad  Solaris
 MapSize=1,11
 Weather=Rain,50
 MapPosition=0,14,8
@@ -96,7 +96,7 @@ MapPosition=0,15,8
 # Gimnasio Ciudad 4
 MapPosition=0,15,8
 [027]
-# Ciudad3
+# Ciudad Celestia
 MapPosition=0,15,8
 [028]
 BattleBack=Forest
