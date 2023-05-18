@@ -40,10 +40,11 @@ ShowArea=true
 # Casa Ruta 1
 MapPosition=0,13,12
 [009]
+# Ruta 4
 MapPosition=0,14,10
 HealingSpot=8,17,11
 [010]
-# Casa2
+# Casa Cerrada
 BattleBack=IndoorB
 MapPosition=0,13,10
 [011]
@@ -53,7 +54,7 @@ MapPosition=0,14,10
 # Centro Pokémon
 MapPosition=0,14,10
 [013]
-# Gimnasio Ciudad 2
+# Gimnasio Zephyra
 MapPosition=0,14,10
 [014]
 # Ruta 2
@@ -65,10 +66,13 @@ MapPosition=0,13,10
 # Casa Brock
 MapPosition=0,13,10
 [017]
+# Ruta 5
 MapPosition=0,13,10
 [018]
+# Pueblo Aetheris
 MapPosition=0,13,10
 [019]
+# Ciudad Arcadia
 MapPosition=0,13,10
 [020]
 # Ruta 3
@@ -99,16 +103,20 @@ MapPosition=0,15,8
 # Ciudad Celestia
 MapPosition=0,15,8
 [028]
+# CasaR4
 BattleBack=Forest
 MapPosition=0,16,8
 Outdoor=true
 ShowArea=true
 [029]
+# Tienda
 Bicycle=true
 MapPosition=0,16,8
 [030]
+# Centro Pokémon
 MapPosition=0,16,8
 [031]
+# Gimnasio Celestia
 MapSize=2,1101
 MapPosition=0,14,6
 Outdoor=true
