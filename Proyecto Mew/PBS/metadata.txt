@@ -44,7 +44,6 @@ MapPosition=0,13,12
 MapPosition=0,14,10
 HealingSpot=8,17,11
 [010]
-# Casa Cerrada
 BattleBack=IndoorB
 MapPosition=0,13,10
 [011]
@@ -59,8 +58,10 @@ MapPosition=0,14,10
 [014]
 # Ruta 2
 MapPosition=0,13,10
+Outdoor=true
+ShowArea=true
 [015]
-# Lab Pokemon
+# LaboratorioPokemon
 MapPosition=0,13,10
 [016]
 # Casa Brock
@@ -77,6 +78,8 @@ MapPosition=0,13,10
 [020]
 # Ruta 3
 MapPosition=0,13,10
+Outdoor=true
+ShowArea=true
 [021]
 # Ciudad  Solaris
 MapSize=1,11
@@ -102,6 +105,8 @@ MapPosition=0,15,8
 [027]
 # Ciudad Celestia
 MapPosition=0,15,8
+Outdoor=true
+ShowArea=true
 [028]
 # CasaR4
 BattleBack=Forest
