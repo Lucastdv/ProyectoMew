@@ -44,7 +44,7 @@ MapPosition=0,13,12
 MapPosition=0,14,10
 HealingSpot=8,17,11
 [010]
-# Casa Cerrada
+# Ciudad Chroma
 BattleBack=IndoorB
 MapPosition=0,13,10
 [011]
@@ -59,8 +59,10 @@ MapPosition=0,14,10
 [014]
 # Ruta 2
 MapPosition=0,13,10
+Outdoor=true
+ShowArea=true
 [015]
-# Lab Pokemon
+# LaboratorioPokemon
 MapPosition=0,13,10
 [016]
 # Casa Brock
@@ -77,6 +79,8 @@ MapPosition=0,13,10
 [020]
 # Ruta 3
 MapPosition=0,13,10
+Outdoor=true
+ShowArea=true
 [021]
 # Ciudad  Solaris
 MapSize=1,11
@@ -102,6 +106,8 @@ MapPosition=0,15,8
 [027]
 # Ciudad Celestia
 MapPosition=0,15,8
+Outdoor=true
+ShowArea=true
 [028]
 # CasaR4
 BattleBack=Forest
@@ -122,38 +128,47 @@ MapPosition=0,14,6
 Outdoor=true
 ShowArea=true
 [034]
+# Ruta 6
 BattleBack=IndoorC
 Bicycle=true
 MapPosition=0,15,6
 [035]
+# Ruta 7
 MapPosition=0,13,6
 Outdoor=true
 ShowArea=true
 [036]
+# Ciudad Terraforma
 MapPosition=0,13,6
 HealingSpot=35,17,7
 [037]
+# Ruta 8
 BattleBack=EliteA
 MapPosition=0,13,6
 [038]
+# Ciudad Hyperion
 MapPosition=0,13,6
 [039]
+# Ruta 9
 MapSize=2,11
 MapPosition=0,11,6
 Outdoor=true
 ShowArea=true
 [040]
+# Pueblo Eon
 MapPosition=0,11,6
 Outdoor=true
 BicycleAlways=true
 ShowArea=true
 [041]
+# Ruta 10
 MapSize=1,111
 MapPosition=0,11,7
 Outdoor=true
 BicycleAlways=true
 ShowArea=true
 [044]
+# Centro Pokémon
 MapSize=2,11
 MapPosition=0,11,10
 Outdoor=true

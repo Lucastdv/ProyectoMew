@@ -182,7 +182,7 @@ BURMY,12,15
 BURMY,12,15
 BURMY,12,15
 #########################
-034
+034 # Ruta 6
 25,10,10
 Cave
 SWINUB,16,18
@@ -198,7 +198,7 @@ SMOOCHUM,11,14
 SMOOCHUM,11,14
 SMOOCHUM,11,14
 #########################
-039
+039 # Ruta 9
 25,10,10
 Land
 SHELLOS,12,15
@@ -214,7 +214,7 @@ MURKROW,12,14
 MURKROW,12,14
 MURKROW,12,14
 #########################
-041
+041 # Ruta 10
 25,10,10
 Land
 GRIMER,13,15
@@ -230,7 +230,7 @@ SLUGMA,13,14
 SLUGMA,13,14
 SLUGMA,13,14
 #########################
-044
+044 # Centro Pokémon
 25,10,10
 Land
 SHELLOS,12,15
