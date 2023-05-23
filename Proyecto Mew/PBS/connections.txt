@@ -9,4 +9,4 @@
 # Ruta 2 (14) - Ciudad Zephyra (7)
 14,North,0,7,South,14
 # Ciudad  Solaris (21) - Ruta 3 (20)
-21,East,0,20,West,4
+21,East,0,20,West,3
