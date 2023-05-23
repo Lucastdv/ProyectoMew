@@ -26,9 +26,9 @@ PIKACHU,19
 RAICHU,21
 #-------------------
 TEAMROCKET_M
-Rocket,1
+Rocket
 1
-WEEPINBELL,21,,,,,,,,,,,,,,true
+Zubat,21,,,,,,,,,,,,,,true
 #-------------------
 TEAMROCKET_F
 Rocket,1
@@ -132,3 +132,7 @@ Liam
 GEODUDE,8
 GEODUDE,9
 #-------------------
+TEAMROCKET_M
+Joaquín
+1
+Zubat,11,,,,,,,,,,,,,,true

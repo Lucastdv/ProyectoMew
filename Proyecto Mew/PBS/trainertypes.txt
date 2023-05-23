@@ -55,7 +55,7 @@
 53,SISANDBRO,Hermanos,16,,,,Mixed,48,
 54,TWINS,Gemelas,24,,,,Mixed,,
 55,YOUNGCOUPLE,Pareja Joven,60,,,,Mixed,32,
-56,TEAMROCKET_M,Soldado Equipo,32,,,,Male,,
+56,TEAMROCKET_M,Soldado Equipo Rocket,32,,,,Male,,
 57,TEAMROCKET_F,Soldado Equipo,32,,,,Female,,
 58,ROCKETBOSS,Líder Rocket,100,,,,Male,,
 59,LEADER_Brock,Líder Gimnasio,100,gymleader,,,Male,,
