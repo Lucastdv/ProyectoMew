@@ -44,6 +44,7 @@ MapPosition=0,13,12
 MapPosition=0,14,10
 HealingSpot=8,17,11
 [010]
+# Liga Pokémon
 BattleBack=IndoorB
 MapPosition=0,13,10
 [011]
@@ -81,7 +82,7 @@ MapPosition=0,13,10
 Outdoor=true
 ShowArea=true
 [021]
-# Ciudad  Solaris
+# Ciudad Solaris
 MapSize=1,11
 Weather=Rain,50
 MapPosition=0,14,8
@@ -100,7 +101,7 @@ HealingSpot=23,11,15
 # Tienda
 MapPosition=0,15,8
 [026]
-# Gimnasio Ciudad 4
+# Gimnasio Solaris
 MapPosition=0,15,8
 [027]
 # Ciudad Celestia
@@ -127,46 +128,56 @@ MapPosition=0,14,6
 Outdoor=true
 ShowArea=true
 [034]
+# Ruta 7
 BattleBack=IndoorC
 Bicycle=true
 MapPosition=0,15,6
 [035]
+# Ruta 8
 MapPosition=0,13,6
 Outdoor=true
 ShowArea=true
 [036]
+# Ruta 9
 MapPosition=0,13,6
 HealingSpot=35,17,7
 [037]
+# Ruta 10
 BattleBack=EliteA
 MapPosition=0,13,6
 [038]
+# Ruta 6
 MapPosition=0,13,6
 [039]
+# Ciudad Chroma
 MapSize=2,11
 MapPosition=0,11,6
 Outdoor=true
 ShowArea=true
 [040]
+# Ciudad Terraforma
 MapPosition=0,11,6
 Outdoor=true
 BicycleAlways=true
 ShowArea=true
 [041]
+# Ciudad Hyperion
 MapSize=1,111
 MapPosition=0,11,7
 Outdoor=true
 BicycleAlways=true
 ShowArea=true
 [044]
+# Centro Pokemon
 MapSize=2,11
 MapPosition=0,11,10
 Outdoor=true
 ShowArea=true
 [045]
+# Fabrica Pokémon
 MapPosition=0,11,10
 Outdoor=true
-BicycleAlways=true
+BicycleAlways=false
 ShowArea=true
 [046]
 Bicycle=true
