@@ -180,9 +180,11 @@ Outdoor=true
 BicycleAlways=false
 ShowArea=true
 [046]
+# Centro Pokémon
 Bicycle=true
 MapPosition=0,12,6
 [047]
+# Tienda
 MapSize=2,11
 BattleBack=Mountain
 Weather=Rain,0

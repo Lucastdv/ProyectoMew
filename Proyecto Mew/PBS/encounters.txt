@@ -246,7 +246,7 @@ MURKROW,12,14
 MURKROW,12,14
 MURKROW,12,14
 #########################
-047
+047 # Tienda
 25,10,10
 Land
 SHELLOS,12,15
