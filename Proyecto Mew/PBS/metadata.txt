@@ -42,7 +42,9 @@ MapPosition=0,13,12
 [009]
 # Ruta 4
 MapPosition=0,14,10
+Outdoor=true
 HealingSpot=8,17,11
+ShowArea=true
 [010]
 # Liga Pokémon
 BattleBack=IndoorB
@@ -70,12 +72,18 @@ MapPosition=0,13,10
 [017]
 # Ruta 5
 MapPosition=0,13,10
+Outdoor=true
+ShowArea=true
 [018]
 # Pueblo Aetheris
 MapPosition=0,13,10
+Outdoor=true
+ShowArea=true
 [019]
 # Ciudad Arcadia
 MapPosition=0,13,10
+Outdoor=true
+ShowArea=true
 [020]
 # Ruta 3
 MapPosition=0,13,10
@@ -84,7 +92,6 @@ ShowArea=true
 [021]
 # Ciudad Solaris
 MapSize=1,11
-Weather=Rain,50
 MapPosition=0,14,8
 Outdoor=true
 ShowArea=true

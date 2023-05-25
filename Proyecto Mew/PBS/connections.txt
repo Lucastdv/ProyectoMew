@@ -5,8 +5,18 @@
 # Ruta 2 (14) - Ciudad Celestia (27)
 14,South,0,27,North,2
 # Ruta 3 (20) - Ciudad Celestia (27)
-20,East,0,27,West,17
+20,East,0,27,West,16
+# Pueblo Aetheris (18) - Ruta 5 (17)
+18,East,4,17,West,0
+# Ciudad Arcadia (19) - Ruta 5 (17)
+19,West,0,17,East,17
+# Ruta 4 (9) - Ruta 5 (17)
+9,West,3,17,East,0
 # Ruta 2 (14) - Ciudad Zephyra (7)
 14,North,0,7,South,14
+# Ruta 4 (9) - Ciudad Arcadia (19)
+9,South,0,19,North,0
+# Ruta 4 (9) - Ruta 3 (20)
+9,North,4,20,South,0
 # Ciudad Solaris (21) - Ruta 3 (20)
-21,East,0,20,West,3
+21,East,0,20,West,2
