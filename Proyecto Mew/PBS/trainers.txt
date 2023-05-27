@@ -185,7 +185,7 @@ Jake
 1
 Bidoof,10
 #-------------------
-Pokemaniac
+POKEMANIAC
 Pascal
 1
 Eevee,13
@@ -214,7 +214,7 @@ Electrode,11
 SWIMMER_F
 Natalia
 1
-Maril,14
+Marill,14
 #-------------------
 SWIMMER_M
 Michael

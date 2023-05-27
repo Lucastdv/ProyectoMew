@@ -6,6 +6,12 @@
 14,South,0,27,North,2
 # Ruta 3 (20) - Ciudad Celestia (27)
 20,East,0,27,West,16
+# Ruta 4 (9) - Ciudad Celestia (27)
+9,North,38,27,South,0
+# Ciudad Arcadia (19) - Ruta 6 (38)
+19,East,0,38,West,0
+# Ruta 4 (9) - Ruta 6 (38)
+9,South,60,38,North,0
 # Pueblo Aetheris (18) - Ruta 5 (17)
 18,East,4,17,West,0
 # Ciudad Arcadia (19) - Ruta 5 (17)

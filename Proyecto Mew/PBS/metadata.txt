@@ -155,6 +155,8 @@ MapPosition=0,13,6
 [038]
 # Ruta 6
 MapPosition=0,13,6
+Outdoor=true
+ShowArea=true
 [039]
 # Ciudad Chroma
 MapSize=2,11
