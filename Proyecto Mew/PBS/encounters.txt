@@ -268,7 +268,7 @@ GEODUDE,12,15
 GEODUDE,12,15
 GEODUDE,12,15
 #########################
-049
+049 # Tienda
 25,10,10
 Cave
 NOSEPASS,14,15

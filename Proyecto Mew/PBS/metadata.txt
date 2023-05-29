@@ -139,6 +139,8 @@ ShowArea=true
 BattleBack=IndoorC
 Bicycle=true
 MapPosition=0,15,6
+Outdoor=true
+ShowArea=true
 [035]
 # Ruta 8
 MapPosition=0,13,6
@@ -201,6 +203,7 @@ MapPosition=0,15,10
 Outdoor=true
 ShowArea=true
 [049]
+# Tienda
 Bicycle=true
 MapPosition=0,16,10
 [050]
