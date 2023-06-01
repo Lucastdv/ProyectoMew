@@ -28,7 +28,6 @@ MapPosition=0,13,11
 Outdoor=true
 ShowArea=true
 [006]
-# Acciones
 MapPosition=0,13,11
 [007]
 # Ciudad Zephyra
@@ -49,6 +48,8 @@ ShowArea=true
 # Liga Pokemon
 BattleBack=IndoorB
 MapPosition=0,13,10
+Outdoor=true
+ShowArea=true
 [011]
 # Tienda
 MapPosition=0,14,10
@@ -149,9 +150,10 @@ ShowArea=true
 [036]
 # Ruta 9
 MapPosition=0,13,6
+Outdoor=true
 HealingSpot=35,17,7
+ShowArea=true
 [037]
-# Ruta 10
 BattleBack=EliteA
 MapPosition=0,13,6
 [038]
@@ -177,6 +179,10 @@ MapSize=1,111
 MapPosition=0,11,7
 Outdoor=true
 BicycleAlways=false
+ShowArea=true
+[042]
+# Pueblo Eon
+Outdoor=true
 ShowArea=true
 [044]
 # Centro Pokemon
