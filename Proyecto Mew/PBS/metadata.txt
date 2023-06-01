@@ -46,7 +46,7 @@ Outdoor=true
 HealingSpot=8,17,11
 ShowArea=true
 [010]
-# Liga Pokémon
+# Liga Pokemon
 BattleBack=IndoorB
 MapPosition=0,13,10
 [011]
@@ -169,7 +169,7 @@ ShowArea=true
 # Ciudad Terraforma
 MapPosition=0,11,6
 Outdoor=true
-BicycleAlways=true
+BicycleAlways=false
 ShowArea=true
 [041]
 # Ciudad Hyperion
