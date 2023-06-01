@@ -25,9 +25,13 @@
 # Ciudad Arcadia (19) - Ciudad Chroma (39)
 19,South,78,39,North,0
 # Ciudad Terraforma (40) - Ruta 7 (34)
-40,West,2,34,East,0
+40,West,8,34,East,0
 # Ruta 2 (14) - Ciudad Zephyra (7)
 14,North,0,7,South,14
+# Ruta 8 (35) - Ciudad Terraforma (40)
+35,West,3,40,East,0
+# Ciudad Hyperion (41) - Ruta 8 (35)
+41,West,26,35,East,0
 # Ruta 4 (9) - Ciudad Arcadia (19)
 9,South,0,19,North,0
 # Ruta 4 (9) - Ruta 3 (20)

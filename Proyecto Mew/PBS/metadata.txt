@@ -176,7 +176,7 @@ ShowArea=true
 MapSize=1,111
 MapPosition=0,11,7
 Outdoor=true
-BicycleAlways=true
+BicycleAlways=false
 ShowArea=true
 [044]
 # Centro Pokemon
@@ -223,9 +223,11 @@ MapPosition=0,17,10
 Outdoor=true
 ShowArea=true
 [053]
+# Centro Pokémon
 MapPosition=0,17,10
 HealingSpot=52,17,14
 [054]
+# Tienda
 MapPosition=0,17,10
 [055]
 MapPosition=0,17,10
