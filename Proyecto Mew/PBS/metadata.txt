@@ -137,7 +137,7 @@ ShowArea=true
 [034]
 # Ruta 7
 BattleBack=IndoorC
-Bicycle=true
+Bicycle=false
 MapPosition=0,15,6
 Outdoor=true
 ShowArea=true
@@ -207,15 +207,18 @@ ShowArea=true
 Bicycle=true
 MapPosition=0,16,10
 [050]
+# Centro Pokémon
 BattleBack=CaveDark
 Bicycle=true
 MapPosition=0,16,10
-DarkMap=true
+DarkMap=false
 [051]
+# Tienda
 Bicycle=true
-Dungeon=true
+Dungeon=false
 MapPosition=0,16,10
 [052]
+# Gimnasio Arcadia
 MapPosition=0,17,10
 Outdoor=true
 ShowArea=true
