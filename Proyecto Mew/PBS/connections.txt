@@ -12,8 +12,6 @@
 2,North,0,5,South,36
 # Ruta 2 (14) - Ciudad Celestia (27)
 14,South,0,27,North,2
-# Ruta 9 (36) - Ciudad Celestia (27)
-36,North,0,27,South,133
 # Ruta 3 (20) - Ciudad Celestia (27)
 20,East,0,27,West,16
 # Pueblo Aetheris (18) - Ruta 5 (17)
@@ -27,7 +25,7 @@
 # Ciudad Arcadia (19) - Ciudad Chroma (39)
 19,South,78,39,North,0
 # Ciudad Terraforma (40) - Ruta 7 (34)
-40,West,0,34,East,2
+40,West,8,34,East,0
 # Ruta 8 (35) - Ciudad Terraforma (40)
 35,West,3,40,East,0
 # Ruta 9 (36) - Ciudad Terraforma (40)

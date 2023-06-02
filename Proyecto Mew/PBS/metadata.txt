@@ -28,6 +28,7 @@ MapPosition=0,13,11
 Outdoor=true
 ShowArea=true
 [006]
+# Centro Pokémon
 MapPosition=0,13,11
 [007]
 # Ciudad Zephyra
