@@ -1,14 +1,35 @@
 ﻿[0]
-Name=Región Andromeda
-Filename=mapRegion0.png
-Point=13,12,"Pueblo Estelar",,2,8,8,
-Point=13,11,"Ruta 1",,,,,
-Point=12,11,"Ruta 1",,,,,
-Point=10,11,"Ciudad Zephyra",,7,47,11,
-Point=14,9,"Ruta 2",,,,,
-Point=14,8,"Ruta 2",,,,,
-Point=15,7,"Ruta 3",,,,,
-Point=12,6,"Ruta 4",,,,,
-Point=11,6,"Ruta 4",,,,,
+Name="Región Andrómeda"
+Filename=mapRegion2.png
+Point=46,23,"Pueblo Estelar",,,,,
+Point=46,21,"Ruta 1",,,,,
+Point=43,20,"Ruta 1",,,,,
+Point=40,21,"Ruta 1",,,,,
+Point=40,23,"Ciudad Zephyra",,,,,
+Point=41,27,"Ciudad Celestia",,,,,
+Point=40,27,"Ruta 3",,,,,
+Point=38,29,"Ruta 3",,,,,
+Point=33,29,"Ciudad Solaris",,,,,
+Point=37,31,"Ruta 4",,,,,
+Point=39,32,"Ruta 4",,,,,
+Point=41,33,"Ruta 4",,,,,
+Point=34,32,"Ruta 5",,,,,
+Point=31,32,"Pueblo Aetheris",,,,,
+Point=41,35,"Ciudad Arcadia",,,,,
+Point=45,35,"Ruta 6",,,,,
+Point=50,36,"Ruta 6",,,,,
+Point=50,40,"Ciudad Chroma",,,,,
+Point=53,35,"Ruta 7",,,,,
+Point=57,35,"Ruta 7",,,,,
+Point=61,35,"Ciudad Terraforma",,,,,
+Point=65,36,"Ruta 8",,,,,
+Point=66,34,"Ruta 8",,,,,
+Point=67,32,"Ruta 8",,,,,
+Point=69,32,"Ciudad Hyperion",,,,,
+Point=62,33,"Ruta 9",,,,,
+Point=61,30,"Ruta 9",,,,,
+Point=58,30,"Pueblo Eon",,,,,
+Point=55,30,"Liga Pokémon",,,,,
+
 
 
