@@ -6,14 +6,16 @@
 19,East,0,38,West,0
 # Ruta 4 (9) - Ruta 6 (38)
 9,South,60,38,North,0
-# Ciudad Zephyra (7) - Ruta 1 (5)
-7,North,6,5,South,0
-# Pueblo Estelar (2) - Ruta 1 (5)
-2,North,0,5,South,36
 # Ruta 2 (14) - Ciudad Celestia (27)
 14,South,0,27,North,2
 # Ruta 3 (20) - Ciudad Celestia (27)
 20,East,0,27,West,16
+# Ciudad Zephyra (7) - Ruta 1 (5)
+7,North,6,5,South,0
+# Pueblo Estelar (2) - Ruta 1 (5)
+2,North,0,5,South,36
+# Liga Pokemon (10) - Ruta 1 (5)
+10,West,0,5,East,109
 # Pueblo Aetheris (18) - Ruta 5 (17)
 18,East,4,17,West,0
 # Ciudad Arcadia (19) - Ruta 5 (17)
@@ -34,13 +36,15 @@
 14,North,0,7,South,14
 # Ciudad Hyperion (41) - Ruta 8 (35)
 41,West,26,35,East,0
+# Liga Pokemon (10) - Pueblo Estelar (2)
+10,West,0,2,East,83
 # Ruta 4 (9) - Ciudad Arcadia (19)
 9,South,0,19,North,0
 # Pueblo Eon (42) - Ruta 9 (36)
 42,East,6,36,West,0
+# Liga Pokemon (10) - Pueblo Eon (42)
+10,East,10,42,West,0
 # Ruta 3 (20) - Ruta 4 (9)
 20,South,0,9,North,4
 # Ciudad Solaris (21) - Ruta 3 (20)
 21,East,0,20,West,2
-# Liga Pokemon (10) - Pueblo Eon (42)
-10,East,10,42,West,0
