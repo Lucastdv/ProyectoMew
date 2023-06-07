@@ -1,0 +1,24 @@
+Antes de poder jugar el juego, es necesario instalar el motor RGSS (Ruby Game Scripting System), 
+que nos permitirá ejecutar el juego. 
+En este caso, hemos incluido el Run Time Package (RTP) en los archivos del juego, 
+pero también puedes obtenerlo en la página oficial de RPG Maker.
+
+1. Ubicación del motor RGSS y guía de instalación:
+
+    - En la carpeta del juego, busca el archivo llamado "xp_rtp104e.exe".
+    - Haz doble clic en el archivo "xp_rtp104e.exe" para ejecutarlo.
+    - Sigue los pasos que te indica el programa de instalación del RTP.
+    - Una vez finalizada la instalación, el RTP estará configurado y listo para ejecutar el juego.
+
+2. Opcional: Instalación de fuentes adicionales:
+
+    - En la carpeta del juego, busca la carpeta llamada "Fonts".
+    - Accede a la carpeta "Fonts" y encontrarás las fuentes necesarias para el juego.
+    - Instala las fuentes siguiendo los pasos de instalación estándar del sistema operativo.
+    - Esta instalación de fuentes es recomendada para una experiencia de juego óptima, 
+      ya que todos los diálogos y texto del juego están diseñados para verse correctamente con estas fuentes.
+    - Se recomienda instalar todas las fuentes para asegurar una visualización correcta del juego para todos los usuarios.
+    - Una vez completados estos pasos, podrás ejecutar el juego desde la carpeta del proyecto. 
+      Recuerda que es importante tener instalado el motor RGSS y las fuentes correspondientes para disfrutar al máximo de la experiencia de juego. 
+
+¡Diviértete jugando el juego de Proyecto Mew!
