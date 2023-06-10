@@ -100,8 +100,8 @@ ShowArea=true
 [023]
 # Casa1
 MapPosition=0,15,8
-Outdoor=true
-ShowArea=true
+Outdoor=false
+ShowArea=false
 [024]
 # Casa2
 MapPosition=0,15,8
@@ -136,6 +136,8 @@ MapSize=2,1101
 MapPosition=0,14,6
 Outdoor=true
 ShowArea=true
+[033]
+# Casa Dr.Huellas
 [034]
 # Ruta 7
 BattleBack=IndoorC
