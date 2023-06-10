@@ -121,8 +121,8 @@ ShowArea=true
 # CasaR4
 BattleBack=Forest
 MapPosition=0,16,8
-Outdoor=true
-ShowArea=true
+Outdoor=false
+ShowArea=false
 [029]
 # Tienda
 Bicycle=true
@@ -229,8 +229,8 @@ MapPosition=0,16,10
 [052]
 # Gimnasio Arcadia
 MapPosition=0,17,10
-Outdoor=true
-ShowArea=true
+Outdoor=false
+ShowArea=false
 [053]
 # Centro Pokémon
 MapPosition=0,17,10
