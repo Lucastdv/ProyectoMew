@@ -17809,7 +17809,7 @@ BattlerEnemyY=18
 BattlerAltitude=13
 Evolutions=
 [653]
-Name=Darkrai Pesadilla
+Name=Darkmare
 InternalName=DARKRAIP
 Type1=DARK
 Type2=GHOST
@@ -17833,8 +17833,9 @@ BattlerPlayerY=0
 BattlerEnemyY=12
 BattlerAltitude=9
 Evolutions=
+RegionalNumbers=653,653
 [654]
-Name=Mewtwo Acorazado
+Name=Mewtwo Coraza
 InternalName=MEWTWOA
 Type1=PSYCHIC
 Type2=STEEL
@@ -17861,3 +17862,4 @@ BattlerPlayerY=0
 BattlerEnemyY=9
 BattlerAltitude=0
 Evolutions=
+RegionalNumbers=654,654
